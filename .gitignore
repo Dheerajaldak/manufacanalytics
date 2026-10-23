@@ -130,4 +130,10 @@ dist
 .pnp.*
 
 .DS_Store
+Thumbs.db
+.idea/
+*.swp
+*.swo
 .vitest/
+dist/
+

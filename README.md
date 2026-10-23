@@ -74,5 +74,4 @@ corepack yarn vitest
 
 ## Development Notes
 
-- **Time Spent**: ~1.5 hours.
 - **Unfinished / Next Steps**: Everything in scope is complete and verified with passing test suites.
